@@ -1,0 +1,40 @@
+{
+  "__npminstall_done": "Mon Apr 15 2019 11:17:44 GMT+0800 (GMT+08:00)",
+  "_from": "xes-tem-edit",
+  "_id": "xes-tem-edit@1.0.58",
+  "_inBundle": false,
+  "_integrity": "sha512-m0oLJc2VuK5M3xUui61QDKg3uRFJ0DT2rl4TLNnFt8rQzyHauQrG1awxfKRXwFk1kOcQAF9lntH9wSFD0vvijw==",
+  "_location": "/xes-tem-edit",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "xes-tem-edit",
+    "name": "xes-tem-edit",
+    "escapedName": "xes-tem-edit",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/xes-tem-edit/-/xes-tem-edit-1.0.58.tgz",
+  "_shasum": "fc1e353b01ccde966cebf164b30e04b414a8a4c9",
+  "_spec": "xes-tem-edit",
+  "_where": "C:\\Users\\15117\\Desktop\\t",
+  "author": {
+    "name": "zhangxin"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "xes-tem-edit",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.58"
+}
